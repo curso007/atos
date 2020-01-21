@@ -14,6 +14,7 @@ Slides en voorbeeldcode bij training Angular Fundamentals + Advanced - ATOS Zave
 ## Extra information:
 - Why Pipable operators in RxJS? https://github.com/ReactiveX/rxjs/blob/master/doc/pipeable-operators.md
 - Angular Error handling: https://pusher.com/tutorials/error-handling-angular-part-1
+- Interceptors: change all outgoing and incoming HttpRequest and HttpResponse objects: https://medium.com/angular-in-depth/top-10-ways-to-use-interceptors-in-angular-db450f8a62d6
 
 
  
