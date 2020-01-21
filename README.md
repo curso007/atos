@@ -5,11 +5,15 @@ Slides en voorbeeldcode bij training Angular Fundamentals + Advanced - ATOS Zave
 - Repository voorbeeldcode Fundamentals: https://github.com/PeterKassenaar/voorbeeldenAngular2
 - Repository voorbeeldcode Advanced: https://github.com/PeterKassenaar/AngularAdvanced
 - Examples of websites, Made with Angular: https://www.madewithangular.com/
-- 
 
 ## User interface libraries
 - ng-bootstrap, an Angular optimized version of standard Bootstrap: https://ng-bootstrap.github.io/#/home
 - PrimeNG, the Angular port of the Java PrimeFaces library: https://www.primefaces.org/primeng/#/
 - Angular Material, the official Angular Endorsed library for user interface components: https://material.angular.io/
+
+## Extra information:
+- Why Pipable operators in RxJS? https://github.com/ReactiveX/rxjs/blob/master/doc/pipeable-operators.md
+- Angular Error handling: https://pusher.com/tutorials/error-handling-angular-part-1
+
 
  
