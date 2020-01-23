@@ -18,7 +18,7 @@ Slides en voorbeeldcode bij training Angular Fundamentals + Advanced - ATOS Zave
 - Sketch - design visual interfaces: https://www.sketch.com
 - Mocking met TS Mockito: https://medium.com/passionate-people/testing-your-typescript-code-with-ts-mockito-ac439deae33e
 - ts-mockito npm module: https://www.npmjs.com/package/ts-mockito
-
+- All you need to know about Mocking: https://christianlydemann.com/all-you-need-to-know-about-mocking-in-angular-tests/
 
 
  
