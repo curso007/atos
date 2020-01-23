@@ -16,6 +16,9 @@ Slides en voorbeeldcode bij training Angular Fundamentals + Advanced - ATOS Zave
 - Angular Error handling: https://pusher.com/tutorials/error-handling-angular-part-1
 - Interceptors: change all outgoing and incoming HttpRequest and HttpResponse objects: https://medium.com/angular-in-depth/top-10-ways-to-use-interceptors-in-angular-db450f8a62d6
 - Sketch - design visual interfaces: https://www.sketch.com
+- Mocking met TS Mockito: https://medium.com/passionate-people/testing-your-typescript-code-with-ts-mockito-ac439deae33e
+- ts-mockito npm module: https://www.npmjs.com/package/ts-mockito
+
 
 
  
